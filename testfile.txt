@@ -6,3 +6,5 @@ perform another commit
 
 adding extra text to
 test committing to a new branch
+
+done with changes in new file
