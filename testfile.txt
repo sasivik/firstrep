@@ -4,5 +4,10 @@ and save by committing it
 adding more text to
 perform another commit
 
+adding extra text to
+test committing to a new branch
+
+done with changes in new file
+
 make changes in main branch 
 to check changes
